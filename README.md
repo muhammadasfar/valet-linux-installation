@@ -3,8 +3,11 @@ Follow the below commands for valet linux installation
 
 ## Install PHP
 > sudo add-apt-repository ppa:ondrej/php 
+
 > sudo apt-get install software-properties-common 
+
 > sudo apt-get update 
+
 > sudo apt-get -y install unzip zip nginx php7.2 php7.2-mysql php7.2-fpm php7.2-mbstring php7.2-xml php7.2-curl php*-json php*-cli php*-common php*-mcrypt php*-xml php*-zip
 
 ## Install LibNSS3Tools
