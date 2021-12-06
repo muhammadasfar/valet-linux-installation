@@ -37,7 +37,7 @@ Follow the below commands for valet linux installation
 > sudo service nginx stop
 
 ## Export the PATH so we can install the valet
-> echo "export PATH=$PATH:$HOME/.config/composer/vendor/bin" >> ~/.bashrcsource ~/.bashrc
+> echo "export PATH=$PATH:$HOME/.config/composer/vendor/bin" >> /.bashrc source /.bashrc
 
 ## Install Valet
 > valet install
