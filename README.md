@@ -64,13 +64,13 @@ If the above command does not works then try the below one
 
 ## Important Valet Commands
 ###### For https
-> Valet secure folder-name
+> valet secure folder-name
 ###### For http
-> Valet unsecure folder-name
+> valet unsecure folder-name
 ###### Lists existed domains
-> Valet domain           
+> valet domain           
 ###### Create a domain name and by default its .test
-> Valet domain .domainName
+> valet domain .domainName
 
 
 
