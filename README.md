@@ -73,7 +73,9 @@ If the above command does not works then try the below one
 > valet domain .domainName
 
 
+###### Uninstallation Command
 
+> composer global remove cpriego/valet-linux
 
 
 
